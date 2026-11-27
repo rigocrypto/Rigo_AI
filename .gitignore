@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+coverage/
+output/
+*.tsbuildinfo
+next-env.d.ts
+.env*
+*.log
+.DS_Store
+.qodo/
+.playwright-cli/
